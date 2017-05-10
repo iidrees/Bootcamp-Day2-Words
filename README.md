@@ -1,0 +1,1 @@
+	This is an program that checks the number of time a word occurs in a string.
